@@ -21,7 +21,7 @@ body {
 }
 
 .form-register h4 {
-  font-size: 22px;
+  font-size: 30px;
   margin-bottom: 20px;
 }
 
@@ -29,11 +29,11 @@ body {
   width: 100%;
   background: #24303c;
   padding: 10px;
-  border-radius: 4px;
+  border-radius: 6px;
   margin-bottom: 16px;
-  border: 1px solid #1f53c5;
+  border: 2px solid #1f53c5;
   font-family: 'calibri';
-  font-size: 18px;
+  font-size: 15px;
   color: white;
 }
 
